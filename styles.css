@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+ul>li>a{
+	text-decoration:none;
+}
+
+ul>li{
+	list-style:none;
+}
+.navbars{
+	display:flex;
+	justify-content:space-evenly;
+	background-color:yellow;
+}
